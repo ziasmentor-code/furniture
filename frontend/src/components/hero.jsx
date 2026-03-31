@@ -11,7 +11,7 @@ const Hero = () => {
 
   const slides = [
     {
-      image: "/images/f1.jpg",
+      image: "/images/dining2.jpg",
       title: "Complete Home Interior",
       titleAccent: "& Furniture Solutions",
       subtitle: "Under one single roof — discover stylish designs for your dream home.",
